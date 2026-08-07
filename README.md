@@ -24,3 +24,7 @@ Tap the vehicle nickname to view the car image and tyre pressures
 Turn the climate control on/off and set the desired temperature
 Based on the repository:
 https://github.com/markoceri/leapmotor-api
+
+<img width="921" height="2048" alt="MyLeapCar_Main" src="https://github.com/user-attachments/assets/d5e22336-58ff-4560-88b2-281643304d4d" />
+<img width="921" height="2048" alt="MyLeapCar_Tires" src="https://github.com/user-attachments/assets/022300e5-733f-46c5-91a2-c9d07a3f25f7" />
+
