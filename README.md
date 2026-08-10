@@ -10,7 +10,8 @@ Funzioni nella schermata principale
 - Cliccando sul nickname dell'auto si ottiene la foto e la pressione dei pneumatici
 - Permette di accendere\spegnere il clima e impostare la temperatura
 
-Versione 02beta: cliccando sulla batteria se è in carica si dovrebbe poter gestire limite di ricarica e pausa, ripresa carica. Da testare
+Versione 03beta: cliccando sulla batteria se è in carica si dovrebbe poter gestire limite di ricarica e pausa, ripresa carica. Da testare
+Controllo finestrini, Baule e Clackson
 
 Basato sulla repo https://github.com/markoceri/leapmotor-api 
 
@@ -27,7 +28,9 @@ Turn the climate control on/off and set the desired temperature
 Based on the repository:
 https://github.com/markoceri/leapmotor-api
 
-Version 02beta: Clicking on the battery icon while the device is charging should allow users to manage the charging limit, pause charging, and resume charging. This needs to be tested.
+Version 03beta: 
+Clicking on the battery icon while the device is charging should allow users to manage the charging limit, pause charging, and resume charging. This needs to be tested.
+Added windows control, Trunk control, Horn
 
 <img width="921" height="2048" alt="MyLeapCar_Main" src="https://github.com/user-attachments/assets/d5e22336-58ff-4560-88b2-281643304d4d" />
 <img width="921" height="2048" alt="MyLeapCar_Tires" src="https://github.com/user-attachments/assets/022300e5-733f-46c5-91a2-c9d07a3f25f7" />
